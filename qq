@@ -1,0 +1,2221 @@
+<html>
+<head>
+<title>business website</title>    
+<link href="style.css" rel="stylesheet" type="text/css" 
+</head> 
+	
+<body>
+	
+	
+    <header>
+        
+            <div class="rom">
+            <div class="logo">
+                <img src="logo.png">
+            </div>       
+        <ul class="main-nav">
+            <li class="actvie"><a href=""> HOME </a></li>
+            <li><a href="Web_1280___4.html"> SERVICES </a></li> 
+            <li><a href="Web_1280___1.html"> ABOUT </a></li> 
+            <li><a href="Web_1280___7.html"> CONTACT </a></li>
+            <li><a href="Web_1280___6.html"> NEWS </a></li> 
+            <li><a href=""> FAQ </a></li> 
+            
+        </ul>               
+            
+        </div>
+        
+        <div class="hero">
+        <h1>ARE YOU READY?</h1>
+            
+           <div class="button">
+            <a href="https://www.youtube.com/results?search_query=jennifer+lawrence" class="btn btn-one">WATCH VIDEO</a>
+            <a href="" class="btn btn-tow">EXPLOR MORE</a>  
+           </div>     
+        </div>
+        
+        
+        
+    </header>
+
+</body> 
+    
+</html>
+*
+{
+    margin: 0;
+    padding: 0;
+}
+@media(max-width:500ox){.main-nav{display:none;}}
+header
+{
+    background-image: url(ww.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: left;
+}
+
+.main-nav
+{
+   float: right; 
+    list-style: none;
+    margin-top: 10px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+} 
+
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+.main-nav li.actvie a
+{
+    border: 2px solid darkorange;
+}
+
+.main-nav li a:hover
+{
+    border: 2px solid darkorange;
+}
+
+.logo
+{
+    
+    width: 500px;
+    height: 300px;
+    float: left;
+	margin-left:100px;
+}
+
+body
+{
+    font-family: monospace;
+}
+
+
+.hero
+{
+    position: absolute;
+    width: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    {
+    background-color: darkorange;
+    transition: all 0.5s ease-in;
+}
+
+}
+
+h1
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 275px;
+    margin-left: 400px;
+}
+
+.button
+{
+    margin-top: 30px;
+    margin-left: 540px;
+}
+
+.btn
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.btn-one
+{
+  background-color: darkorange;
+ font-family: "Roboto", sans-serif;
+}
+
+.btn-tow
+{
+    font-family: "Roboto", sans-serif;
+}
+.btn-one
+{
+  background-color: darkorange;
+ font-family: "Roboto", sans-serif;
+}
+
+.btn-tow
+{
+    font-family: "Roboto", sans-serif;
+}
+
+.btn-tow:hover
+{
+    background-color: darkorange;
+    transition: all 0.5s ease-in;
+}
+
+
+
+    .d img {
+    width: 320px;
+    height: 401px;
+    float: left;
+}
+}
+
+
+
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    background-image: url(ww.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: left;
+}
+
+.main-nav
+{
+   float: right; 
+    list-style: none;
+    margin-top: 10px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+} 
+
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+.main-nav li.actvie a
+{
+    border: 2px solid darkorange;
+}
+
+.main-nav li a:hover
+{
+    border: 2px solid darkorange;
+}
+
+.logo
+{
+    
+    width: 500px;
+    height: 300px;
+    float: left;
+	margin-left:100px;
+}
+
+body
+{
+    font-family: monospace;
+}
+
+
+.hero
+{
+    position: absolute;
+    width: auto;
+    margin-left: 0px;
+    margin-top: 0px;
+    {
+    background-color: darkorange;
+    transition: all 0.5s ease-in;
+}
+
+}
+
+h1
+{
+    color: white;
+    text-transform: uppercase;
+    font-size: 70px;
+    text-align: center;
+    margin-top: 275px;
+    margin-left: 400px;
+}
+
+.button
+{
+    margin-top: 30px;
+    margin-left: 540px;
+}
+
+.btn
+{
+    border: 1px solid white;
+    padding: 10px 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 5px;
+    font-size: 13px;
+    text-transform: uppercase;
+}
+
+.btn-one
+{
+  background-color: darkorange;
+ font-family: "Roboto", sans-serif;
+}
+
+.btn-tow
+{
+    font-family: "Roboto", sans-serif;
+}
+.btn-one
+{
+  background-color: darkorange;
+ font-family: "Roboto", sans-serif;
+}
+
+.btn-tow
+{
+    font-family: "Roboto", sans-serif;
+}
+
+.btn-tow:hover
+{
+    background-color: darkorange;
+    transition: all 0.5s ease-in;
+}
+
+
+
+    .d img {
+    width: 320px;
+    height: 401px;
+    float: left;
+}
+}
+
+
+
+
+
+body{
+	height:100vh;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	
+	
+	
+}
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280___1 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1366px;
+	height: 657px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 1;
+	--web-view-id: Web_1280___1;
+	--web-enable-deep-linking: true;
+}
+.ww {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 657px;
+	left: 0px;
+	top: 0px;
+}
+.logo {
+	position: absolute;
+	overflow: visible;
+	width: 78.974px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+
+.main-nav
+{
+   float: right; 
+    list-style: none;
+    margin-top: 30px;
+	padding-bottom: 80px;
+	vertical-align: middle;
+}
+.main-nav li
+{
+    display: inline-block;
+	
+} 
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+.main-nav li.actvie a
+{
+    border: 2px solid darkorange;
+}
+.main-nav li a:hover
+{
+    border: 2px solid darkorange;
+}
+
+
+
+
+#About__me {
+	filter: drop-shadow(8px 5px 6px rgba(255, 255, 255, 1));
+	position: absolute;
+	left: 230px;
+	top: 22px;
+	overflow: hidden;
+	width: 454px;
+	height: 139px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 92px;
+	color: rgba(255,119,0,1);
+}
+#Group_10 {
+	position: absolute;
+	width: 457px;
+	height: 380px;
+	left: 39px;
+	top: 178px;
+	overflow: visible;
+}
+#Group_3 {
+	position: absolute;
+	width: 457px;
+	height: 380px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#PERSONAL_DETAILS {
+	position: absolute;
+	left: 34px;
+	top: 0px;
+	overflow: hidden;
+	width: 424px;
+	height: 62px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(9,8,8,1);
+}
+#Here__I_focus_on_a_range_of_it {
+	position: absolute;
+	left: 0px;
+	top: 62px;
+	overflow: hidden;
+	width: 441px;
+	height: 264px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Group_2 {
+	position: absolute;
+	width: 225px;
+	height: 44px;
+	left: 98px;
+	top: 336px;
+	overflow: visible;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	height: 44px;
+	left: 0px;
+	top: 12px;
+}
+#VIEW_FULL_DETAILS {
+	position: absolute;
+	left: 21px;
+	top:20px;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+	text-underline-position: right;
+
+	
+}
+#Tools_Expertness {
+	position: absolute;
+	left: 743px;
+	top: 300px;
+	overflow: hidden;
+	width: 479px;
+	height: 63px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,255,255,1);
+}
+#Group_6 {
+	position: absolute;
+	width: 311px;
+	height: 52px;
+	left: 585px;
+	top: 303px;
+	overflow: visible;
+}
+#Group_5 {
+	position: absolute;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 38px;
+	overflow: visible;
+}
+.Rectangle_2 {
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+.Rectangle_3 {
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+#Group_5_A0_Group_7 {
+	position: absolute;
+	width: 182px;
+	height: 42px;
+	left: 129px;
+	top: 0px;
+	overflow: visible;
+}
+#Adobe_XD_90___ {
+	position: absolute;
+	left: 0px;
+	top: 70px;
+	overflow: hidden;
+	width: 183px;
+	height: 42px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Group_6_A0_Group_8 {
+	position: absolute;
+	width: 311px;
+	height: 52px;
+	left: 982px;
+	top: 303px;
+	overflow: visible;
+}
+#Group_5_A0_Group_9 {
+	position: absolute;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 38px;
+	overflow: visible;
+}
+.Rectangle_2_A0_Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+.Rectangle_3_A0_Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 259px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+#Group_5_A0_Group_10 {
+	position: absolute;
+	width: 182px;
+	height: 42px;
+	left: 129px;
+	top: 0px;
+	overflow: visible;
+}
+#Photoshop_85___ {
+	position: absolute;
+	left: 0px;
+	top: 70px;
+	overflow: hidden;
+	width: 183px;
+	height: 42px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Group_6_A0_Group_11 {
+	position: absolute;
+	width: 315px;
+	height: 53px;
+	left: 585px;
+	top: 374px;
+	overflow: visible;
+}
+#Group_5_A0_Group_12 {
+	position: absolute;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 39px;
+	overflow: visible;
+}
+.Rectangle_2_A0_Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+.Rectangle_3_A0_Rectangle_11 {
+	position: absolute;
+	overflow: visible;
+	width: 258px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+#Group_5_A0_Group_13 {
+	position: absolute;
+	width: 123px;
+	height: 42px;
+	left: 192px;
+	top: 0px;
+	overflow: visible;
+}
+#word_85___ {
+	position: absolute;
+	left: 0px;
+	top: 70px;
+	overflow: hidden;
+	width: 124px;
+	height: 42px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Group_6_A0_Group_14 {
+	position: absolute;
+	width: 309px;
+	height: 53px;
+	left: 982px;
+	top: 374px;
+	overflow: visible;
+}
+#Group_5_A0_Group_15 {
+	position: absolute;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 39px;
+	overflow: visible;
+}
+.Rectangle_2_A0_Rectangle_12 {
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+.Rectangle_3_A0_Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 281px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+#Group_5_A0_Group_16 {
+	position: absolute;
+	width: 115px;
+	height: 42px;
+	left: 194px;
+	top: 0px;
+	overflow: visible;
+}
+#Excel_90___ {
+	position: absolute;
+	left: 0px;
+	top: 70px;
+	overflow: hidden;
+	width: 116px;
+	height: 42px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Group_6_A0_Group_17 {
+	position: absolute;
+	width: 317px;
+	height: 49px;
+	left: 585px;
+	top: 450px;
+	overflow: visible;
+}
+#Group_5_A0_Group_18 {
+	position: absolute;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 35px;
+	overflow: visible;
+}
+.Rectangle_2_A0_Rectangle_14 {
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+.Rectangle_3_A0_Rectangle_15 {
+	position: absolute;
+	overflow: visible;
+	width: 236px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+#Group_5_A0_Group_19 {
+	position: absolute;
+	width: 260px;
+	height: 42px;
+	left: 57px;
+	top: 0px;
+	overflow: visible;
+}
+#Adobe_Illustrator_80___ {
+	position: absolute;
+	left: 0px;
+	top: 70px;
+	overflow: hidden;
+	width: 261px;
+	height: 42px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Group_6_A0_Group_20 {
+	position: absolute;
+	width: 311px;
+	height: 50px;
+	left: 982px;
+	top: 449px;
+	overflow: visible;
+}
+#Group_5_A0_Group_21 {
+	position: absolute;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 36px;
+	overflow: visible;
+}
+.Rectangle_2_A0_Rectangle_16 {
+	position: absolute;
+	overflow: visible;
+	width: 307px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+.Rectangle_3_A0_Rectangle_17 {
+	position: absolute;
+	overflow: visible;
+	width: 220px;
+	height: 14px;
+	left: 0px;
+	top: 70px;
+}
+#Group_5_A0_Group_22 {
+	position: absolute;
+	width: 174px;
+	height: 42px;
+	left: 137px;
+	top: 0px;
+	overflow: visible;
+}
+#HTML_CSS_75___ {
+	position: absolute;
+	left: 0px;
+	top: 70px;
+	overflow: hidden;
+	width: 175px;
+	height: 42px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Web 1280 – 1</title>
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="Web_1280___1.css"/>
+</head>
+	
+<body background="z.jpg" >
+
+	
+	
+	
+	<svg class="logo">
+		<pattern elementId="logo_A0_Rectangle_4" id="logo_A0_Rectangle_4_pattern" x="0" y="0" width="100%" height="100%">
+			<image x="0" y="0" width="100%" height="100%" href="logo_A0_Rectangle_4_pattern.png" xlink:href="logo_A0_Rectangle_4_pattern.png"></image>
+		</pattern>
+		<rect fill="url(#logo_A0_Rectangle_4_pattern)" id="logo" rx="0" ry="0" x="0" y="0" width="78.974" height="77">
+		</rect>
+	</svg>
+	
+<div>
+	  <ul class="main-nav">
+            <li><a href="index.html"> HOME </a></li>
+            <li><a href="Web_1280___4.html"> SERVICES </a></li> 
+            <li class="actvie"><a href="Web_1280___1.html"> ABOUT </a></li> 
+            <li><a href="Web_1280___7.html"> CONTACT </a></li>
+            <li><a href="Web_1280___6.html"> NEWS </a></li> 
+            <li><a href=""> FAQ </a></li> 
+            
+        </ul>  
+
+</div>
+
+	
+		
+		
+	<div id="About__me">
+		<span>About  me</span>
+	</div>
+	<div id="Group_10">
+		<div id="Group_3">
+			<div id="PERSONAL_DETAILS">
+				<span>PERSONAL DETAILS</span>
+			</div>
+			<div id="Here__I_focus_on_a_range_of_it">
+				<span>Here, I focus on a range of items and features that we use in life without giving them a second thought. such as Coca Cola. Dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</span>
+			</div>
+			<div id="Group_2">
+				<svg class="Rectangle_1">
+					<rect fill="rgba(255,119,0,1)" id="Rectangle_1" rx="22" ry="22" x="0" y="0" width="225" height="44">
+					</rect>
+				</svg>
+				<div id="VIEW_FULL_DETAILS">
+					<span><a href="">VIEW FULL DETAILS</a> </span>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div id="Tools_Expertness">
+		<span>Tools Expertness</span>
+	</div>
+	<div id="Group_6">
+		<div id="Group_5">
+			<svg class="Rectangle_2">
+				<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_2" rx="7" ry="7" x="0" y="0" width="307" height="14">
+				</rect>
+			</svg>
+			<svg class="Rectangle_3">
+				<rect fill="rgba(255,119,0,1)" id="Rectangle_3" rx="7" ry="7" x="0" y="0" width="281" height="14">
+				</rect>
+			</svg>
+		</div>
+		<div id="Group_5_A0_Group_7">
+			<div id="Adobe_XD_90___">
+				<span>Adobe XD 90%<br/></span><br>
+			</div>
+		</div>
+	</div>
+	<div id="Group_6_A0_Group_8">
+		<div id="Group_5_A0_Group_9">
+			<svg class="Rectangle_2_A0_Rectangle_8">
+				<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_2_A0_Rectangle_8" rx="7" ry="7" x="0" y="0" width="307" height="14">
+				</rect>
+			</svg>
+			<svg class="Rectangle_3_A0_Rectangle_9">
+				<rect fill="rgba(255,119,0,1)" id="Rectangle_3_A0_Rectangle_9" rx="7" ry="7" x="0" y="0" width="259" height="14">
+				</rect>
+			</svg>
+		</div>
+		<div id="Group_5_A0_Group_10">
+			<div id="Photoshop_85___">
+				<span>Photoshop 85%<br/></span><br>
+			</div>
+		</div>
+	</div>
+	<div id="Group_6_A0_Group_11">
+		<div id="Group_5_A0_Group_12">
+			<svg class="Rectangle_2_A0_Rectangle_10">
+				<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_2_A0_Rectangle_10" rx="7" ry="7" x="0" y="0" width="307" height="14">
+				</rect>
+			</svg>
+			<svg class="Rectangle_3_A0_Rectangle_11">
+				<rect fill="rgba(255,119,0,1)" id="Rectangle_3_A0_Rectangle_11" rx="7" ry="7" x="0" y="0" width="258" height="14">
+				</rect>
+			</svg>
+		</div>
+		<div id="Group_5_A0_Group_13">
+			<div id="word_85___">
+				<span>word 85%<br/></span><br>
+			</div>
+		</div>
+	</div>
+	<div id="Group_6_A0_Group_14">
+		<div id="Group_5_A0_Group_15">
+			<svg class="Rectangle_2_A0_Rectangle_12">
+				<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_2_A0_Rectangle_12" rx="7" ry="7" x="0" y="0" width="307" height="14">
+				</rect>
+			</svg>
+			<svg class="Rectangle_3_A0_Rectangle_13">
+				<rect fill="rgba(255,119,0,1)" id="Rectangle_3_A0_Rectangle_13" rx="7" ry="7" x="0" y="0" width="281" height="14">
+				</rect>
+			</svg>
+		</div>
+		<div id="Group_5_A0_Group_16">
+			<div id="Excel_90___">
+				<span>Excel 90%<br/></span><br>
+			</div>
+		</div>
+	</div>
+	<div id="Group_6_A0_Group_17">
+		<div id="Group_5_A0_Group_18">
+			<svg class="Rectangle_2_A0_Rectangle_14">
+				<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_2_A0_Rectangle_14" rx="7" ry="7" x="0" y="0" width="307" height="14">
+				</rect>
+			</svg>
+			<svg class="Rectangle_3_A0_Rectangle_15">
+				<rect fill="rgba(255,119,0,1)" id="Rectangle_3_A0_Rectangle_15" rx="7" ry="7" x="0" y="0" width="236" height="14">
+				</rect>
+			</svg>
+		</div>
+		<div id="Group_5_A0_Group_19">
+			<div id="Adobe_Illustrator_80___">
+				<span>Adobe Illustrator 80%<br/></span><br>
+			</div>
+		</div>
+	</div>
+	<div id="Group_6_A0_Group_20">
+		<div id="Group_5_A0_Group_21">
+			<svg class="Rectangle_2_A0_Rectangle_16">
+				<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_2_A0_Rectangle_16" rx="7" ry="7" x="0" y="0" width="307" height="14">
+				</rect>
+			</svg>
+			<svg class="Rectangle_3_A0_Rectangle_17">
+				<rect fill="rgba(255,119,0,1)" id="Rectangle_3_A0_Rectangle_17" rx="7" ry="7" x="0" y="0" width="220" height="14">
+				</rect>
+			</svg>
+		</div>
+		<div id="Group_5_A0_Group_22">
+			<div id="HTML_CSS_75___">
+				<span>HTML,CSS 75%<br/></span><br>
+			</div>
+		</div>
+	
+</div>
+</body>
+</html>
+
+
+
+body{
+	background-image: url(2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.main-nav
+{
+   float: right; 
+    list-style: none;
+    margin-top: 30px;
+	padding-bottom: 80px;
+	vertical-align: middle;
+}
+.main-nav li
+{
+    display: inline-block;
+	
+} 
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+.main-nav li.actvie a
+{
+    border: 2px solid darkorange;
+}
+.main-nav li a:hover
+{
+    border: 2px solid darkorange;
+}
+
+
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1280___4 {
+	position: absolute;
+	box-sizing: border-box;
+	background: #E5E5E5;
+	width: 1366px;
+	height: 1384px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1280 – 4;
+	--web-view-id: Web_1280___4;
+	--web-enable-deep-linking: true;
+}
+
+
+.ID4 {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 768px;
+	left: 0px;
+	top: 616px;
+}
+.logo {
+	position: absolute;
+	overflow: visible;
+	width: 78.974px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+#SERVICES {
+	filter: drop-shadow(8px 5px 6px rgba(255, 255, 255, 1));
+	position: absolute;
+	left: 330px;
+	top: 70px;
+	overflow: hidden;
+	width: 421px;
+	height: 139px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 92px;
+	color: rgba(255,119,0,1);
+}
+#My_Offered_Services {
+	filter: drop-shadow(0px 15px 6px rgba(255, 255, 255, 0.729));
+	position: absolute;
+	left: 152px;
+	top: 230px;
+	overflow: hidden;
+	width: 1064px;
+	height: 131px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+#At_about_this_time_of_year__so {
+	position: absolute;
+	left: 312.5px;
+	top: 346.5px;
+	overflow: hidden;
+	width: 743px;
+	height: 190px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(255,255,255,1);
+}
+#Group_23 {
+	position: absolute;
+	width: 1345px;
+	height: 769.342px;
+	left: 28px;
+	top: 632px;
+	overflow: visible;
+}
+#Group_20 {
+	position: absolute;
+	width: 636px;
+	height: 356.757px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ic_photo_camera_24px {
+	position: absolute;
+	width: 93.959px;
+	height: 76.736px;
+	left: 214px;
+	top: 33px;
+	overflow: visible;
+}
+#Group_16 {
+	position: absolute;
+	width: 93.959px;
+	height: 76.736px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.Ellipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 20px;
+	height: 20px;
+	left: 36.78px;
+	top: 33px;
+}
+.Path_92 {
+	overflow: visible;
+	position: absolute;
+	width: 93.959px;
+	height: 76.736px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Photography__ {
+	position: absolute;
+	left: 59.5px;
+	top:100px;
+	overflow: hidden;
+	width: 454px;
+	height: 105px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,143,2,1);
+}
+#Do_you_want_to_be_even_more_su {
+	position: absolute;
+	left: 0px;
+	top: 200px;
+	overflow: hidden;
+	width: 637px;
+	height: 172px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Group_19 {
+	position: absolute;
+	width: 683px;
+	height: 340px;
+	left: 662px;
+	top: 0px;
+	overflow: visible;
+}
+#Web_Development_ {
+	position: absolute;
+	left: 21.5px;
+	top: 109px;
+	overflow: hidden;
+	width: 613px;
+	height: 92px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,143,2,1);
+}
+#If_you_are_an_entrepreneur__yo {
+	position: absolute;
+	left: 0px;
+	top: 200px;
+	overflow: hidden;
+	width: 684px;
+	height: 143px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.ic_laptop_chromebook_24px {
+	
+	position: absolute;
+	width: 113.317px;
+	height: 86.524px;
+	left:304px;
+	top: 33px;
+	
+}
+#Group_17 {
+	position: absolute;
+	width: 560px;
+	height: 405.342px;
+	left: 0px;
+	top: 364px;
+	overflow: visible;
+}
+#Web_Design_ {
+	position: absolute;
+	left: 32.5px;
+	top: 124.342px;
+	overflow: hidden;
+	width: 454px;
+	height: 117px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,143,2,1);
+}
+#_It_is_not_because_things_are_ {
+	position: absolute;
+	left: 0px;
+	top: 233.342px;
+	overflow: hidden;
+	width: 561px;
+	height: 172px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.ic_pie_chart_24px {
+	overflow: visible;
+	position: absolute;
+	width: 107.318px;
+	height: 99.584px;
+	transform: translate(-15px, -802.658px) matrix(1,0,0,1,207.726,819.133) rotate(-22deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#Group_18 {
+	position: absolute;
+	width: 658px;
+	height: 407.982px;
+	left: 655px;
+	top: 331px;
+	overflow: visible;
+}
+#Graphic_Design_You_ve_h_ {
+	position: absolute;
+	left: 93.5px;
+	top: 172.982px;
+	overflow: hidden;
+	width: 516px;
+	height: 117px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 70px;
+	color: rgba(255,143,2,1);
+}
+#You_ve_heard_the_expression___ {
+	position: absolute;
+	left: 0px;
+	top: 273.982px;
+	overflow: hidden;
+	width: 659px;
+	height: 134px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+.graphic_design {
+	overflow: visible;
+	position: absolute;
+	width: 225.648px;
+	height: 190.982px;
+	left: 238px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Web 1280 – 4</title>
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="Web_1280___4.css"/>
+</head>
+<body>
+	
+	<div>
+	  <ul class="main-nav">
+            <li><a href="index.html"> HOME </a></li>
+            <li class="actvie"><a href=""> SERVICES </a></li> 
+            <li><a href="Web_1280___1.html"> ABOUT </a></li> 
+            <li><a href="Web_1280___7.html"> CONTACT </a></li>
+            <li><a href="Web_1280___6.html"> NEWS </a></li> 
+            <li><a href=""> FAQ </a></li> 
+            
+        </ul>  
+</div>
+	
+	
+	
+
+	<svg class="ID4">
+		<pattern elementId="ID4_A2_Rectangle_2" id="ID4_A2_Rectangle_2_pattern" x="0" y="0" width="100%" height="100%">
+			<image x="0" y="0" width="100%" height="100%" href="ID4_A2_Rectangle_2_pattern.png" xlink:href="ID4_A2_Rectangle_2_pattern.png"></image>
+		</pattern>
+		<rect fill="url(#ID4_A2_Rectangle_2_pattern)" id="ID4" rx="0" ry="0" x="0" y="0" width="1366" height="768">
+		</rect>
+	</svg>
+	
+	
+	
+	<svg class="logo">
+		<pattern elementId="logo_A2_Rectangle_4" id="logo_A2_Rectangle_4_pattern" x="0" y="0" width="100%" height="100%">
+			<image x="0" y="0" width="100%" height="100%" href="logo_A2_Rectangle_4_pattern.png" xlink:href="logo_A2_Rectangle_4_pattern.png"></image>
+		</pattern>
+		<rect fill="url(#logo_A2_Rectangle_4_pattern)" id="logo" rx="0" ry="0" x="0" y="0" width="78.974" height="77">
+		</rect>
+	</svg>
+	<div id="SERVICES">
+		<span>SERVICES</span>
+	</div>
+	<div id="My_Offered_Services">
+		<span>My Offered Services</span>
+	</div>
+	<div id="At_about_this_time_of_year__so">
+		<span>At about this time of year, some months after New Year’s resolutions have been made and kept, or made and neglected.</span>
+	</div>
+	<div id="Group_23">
+		<div id="Group_20">
+			<div id="ic_photo_camera_24px">
+				<div id="Group_16">
+					<svg class="Ellipse_16">
+						<ellipse fill="rgba(255,143,2,1)" id="Ellipse_16" rx="10" ry="10" cx="10" cy="10">
+						</ellipse>
+					</svg>
+					<svg class="Path_92" viewBox="2 2 93.959 76.736">
+						<path fill="rgba(255,143,2,1)" id="Path_92" d="M 34.88564682006836 2 L 26.28840065002441 10.52626514434814 L 11.39589881896973 10.52626514434814 C 6.228155612945557 10.52626514434814 2.000000476837158 14.36308479309082 2.000000476837158 19.05253028869629 L 2.000000476837158 70.21012115478516 C 2.000000476837158 74.89956665039063 6.228155612945557 78.73638916015625 11.39589881896973 78.73638916015625 L 86.56308746337891 78.73638916015625 C 91.7308349609375 78.73638916015625 95.95899200439453 74.89956665039063 95.95899200439453 70.21012115478516 L 95.95899200439453 19.05253028869629 C 95.95899200439453 14.36308479309082 91.7308349609375 10.52626514434814 86.56308746337891 10.52626514434814 L 71.67059326171875 10.52626514434814 L 63.07334136962891 2 L 34.88564682006836 2 Z M 48.97949600219727 65.94698333740234 C 36.01315307617188 65.94698333740234 25.48974800109863 56.39756774902344 25.48974800109863 44.63132476806641 C 25.48974800109863 32.86507797241211 36.01315307617188 23.31566047668457 48.97949600219727 23.31566047668457 C 61.94583892822266 23.31566047668457 72.46924591064453 32.86507797241211 72.46924591064453 44.63132476806641 C 72.46924591064453 56.39756774902344 61.94583892822266 65.94698333740234 48.97949600219727 65.94698333740234 Z">
+						</path>
+					</svg>
+				</div>
+			</div>
+			<div id="Photography__">
+				<span>Photography<br/> </span>
+			</div>
+			<div id="Do_you_want_to_be_even_more_su">
+				<span>Do you want to be even more successful? Learn to love learning and growth. The more effort you put into improving your skills.</span>
+			</div>
+		</div>
+		<div id="Group_19">
+			<div id="Web_Development_">
+				<span>Web Development</span><br>
+			</div>
+			<div id="If_you_are_an_entrepreneur__yo">
+				<span>If you are an entrepreneur, you know that your success cannot depend on the opinions of others. Like the wind, opinions.</span>
+			</div>
+			<svg class="ic_laptop_chromebook_24px" viewBox="0 3 113.317 86.524">
+				<path fill="rgba(255,143,2,1)" id="ic_laptop_chromebook_24px" d="M 103.8738250732422 79.34501647949219 L 103.8738250732422 2.999999761581421 L 9.443075180053711 2.999999761581421 L 9.443075180053711 79.34501647949219 L 0 79.34501647949219 L 0 89.52436065673828 L 113.31689453125 89.52436065673828 L 113.31689453125 79.34501647949219 L 103.8738250732422 79.34501647949219 Z M 66.10151672363281 79.34501647949219 L 47.21537017822266 79.34501647949219 L 47.21537017822266 74.25535583496094 L 66.10151672363281 74.25535583496094 L 66.10151672363281 79.34501647949219 Z M 94.43074035644531 64.07601928710938 L 18.88615036010742 64.07601928710938 L 18.88615036010742 13.17933559417725 L 94.43074035644531 13.17933559417725 L 94.43074035644531 64.07601928710938 Z">
+				</path>
+			</svg>
+		</div>
+		<div id="Group_17">
+			<div id="Web_Design_">
+				<span>Web Design</span><br>
+			</div>
+			<div id="_It_is_not_because_things_are_">
+				<span>“It is not because things are difficult that we do not dare; it is because we do not dare that they are difficult.”</span>
+			</div>
+			<svg class="ic_pie_chart_24px" viewBox="2 2 107.318 99.584">
+				<path fill="rgba(255,143,2,1)" id="ic_pie_chart_24px" d="M 50.29307174682617 1.99999988079071 L 50.29307174682617 101.5844268798828 C 23.08797073364258 99.09481048583984 1.99999988079071 77.73394775390625 1.99999988079071 51.79220581054688 C 1.99999988079071 25.85047340393066 23.08797454833984 4.489610195159912 50.29307174682617 1.99999988079071 Z M 61.18584060668945 1.99999988079071 L 61.18584060668945 46.76319122314453 L 109.3179321289063 46.76319122314453 C 106.7959671020508 23.16168785095215 86.56653594970703 4.340229511260986 61.18584060668945 1.99999988079071 Z M 50.29307174682617 56.82122039794922 L 50.29307174682617 56.82122039794922 L 50.29307174682617 101.5844268798828 C 75.7274169921875 99.24419403076172 100.0415802001953 87.54051208496094 102.5635528564453 63.93900680541992 L 50.29307174682617 56.82122039794922 Z">
+				</path>
+			</svg>
+		</div>
+		<div id="Group_18">
+			<div id="Graphic_Design_You_ve_h_">
+				<span>Graphic Design<br/>You’ve h</span><br>
+			</div>
+			<div id="You_ve_heard_the_expression___">
+				<span>You’ve heard the expression, “Just believe it and it will come.” Well, technically, that is true, however,  ‘believing’ is not just thinking that.</span>
+			</div>
+			<svg class="graphic_design" viewBox="0 -12.982 225.648 190.982">
+				<pattern elementId="graphic_design_A2_Path_5" id="graphic_design_A2_Path_5_pattern" x="0" y="0" width="100%" height="100%">
+					<image x="0" y="0" width="100%" height="100%" href="graphic_design_A2_Path_5_pattern.png" xlink:href="graphic_design_A2_Path_5_pattern.png"></image>
+				</pattern>
+				<path fill="url(#graphic_design_A2_Path_5_pattern)" id="graphic_design" d="M 0 0 L 225.64794921875 -12.982421875 L 200 178 L 0 178 L 0 0 Z">
+				</path>
+			</svg>
+		</div>
+	
+</div>
+</body>
+</html>
+
+body{
+	height:150vh;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+.ID7022416_jennifer_lawrence_hd {
+	position: absolute;
+	overflow: visible;
+	width: 1366px;
+	height: 993.75px;
+	left: 0px;
+	top: 0px;
+}
+.logo {
+	position: absolute;
+	overflow: visible;
+	width: 78.974px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+
+
+.main-nav
+{
+   float: right; 
+    list-style: none;
+    margin-top: 30px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+			
+} 
+
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+.main-nav li.actvie a
+{
+    border: 2px solid darkorange;
+}
+
+.main-nav li a:hover
+{
+    border: 2px solid darkorange;
+}
+#NEWS_A4_Text_7 {
+	filter: drop-shadow(8px 5px 6px rgba(255, 255, 255, 1));
+	position: absolute;
+	left: 800px;
+	top: 100px;
+	overflow: hidden;
+	width: 485px;
+	height: 216px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 150px;
+	color: rgba(255,119,0,1);
+}
+#new_movies {
+	filter: drop-shadow(0px 15px 6px rgba(255, 255, 255, 0.729));
+	position: absolute;
+	left: 80px;
+	top: 270px;
+	overflow: hidden;
+	width: 644px;
+	height: 131px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 100px;
+	color: rgba(0,0,0,1);
+}
+#Group_21 {
+	position: absolute;
+	width: 658px;
+	height: 294px;
+	left: 40px;
+	top: 411px;
+	overflow: visible;
+}
+.ID51oXULX085L {
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	height: 294px;
+	left: 0px;
+	top: 0px;
+}
+.ID51gddX1jGcL {
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	height: 294px;
+	left: 233px;
+	top: 0px;
+}
+.ID61RTo5963ML {
+	position: absolute;
+	overflow: visible;
+	width: 177px;
+	height: 294px;
+	left: 481px;
+	top: 0px;
+	
+}
+#Jennifer_Lawrence {
+	position: absolute;
+	left: 25px;
+	top: 1011px;
+	overflow: visible;
+	width: 637px;
+	white-space: nowrap;
+	text-align: right;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 75px;
+	color: rgba(0,0,0,1);
+}
+#Jennifer_Shrader_Lawrence__bor {
+	position: absolute;
+	left: 25px;
+	top: 1126px;
+	overflow: hidden;
+	width: 628px;
+	height: 1154px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.Rectangle_10 {
+	position: absolute;
+	overflow: visible;
+	width: 636px;
+	height: 1224px;
+	left: 691px;
+	top: 1024px;
+}
+.Jennifer_Lawrence_SDCC_2015_X_ {
+	position: absolute;
+	overflow: visible;
+	width: 520px;
+	height: 623px;
+	left: 749px;
+	top: 1036px;
+}
+#Group_22 {
+	position: absolute;
+	width: 646px;
+	height: 558px;
+	left: 721px;
+	top: 1679px;
+	overflow: visible;
+}
+#Lawrence_at_the_2015_San_Diego {
+	position: absolute;
+	left: 48px;
+	top: 0px;
+	overflow: hidden;
+	width: 499px;
+	height: 52px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Born {
+	position: absolute;
+	left: 0px;
+	top: 114px;
+	overflow: hidden;
+	width: 121px;
+	height: 119px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,54,233,1);
+}
+#Residence {
+	position: absolute;
+	left: 0px;
+	top: 235px;
+	overflow: hidden;
+	width: 219px;
+	height: 119px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,54,233,1);
+}
+#Occupation {
+	position: absolute;
+	left: 0px;
+	top: 356px;
+	overflow: hidden;
+	width: 219px;
+	height: 68px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,54,233,1);
+}
+#Years_active {
+	position: absolute;
+	left: 0px;
+	top: 466px;
+	overflow: hidden;
+	width: 275px;
+	height: 68px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,54,233,1);
+}
+#August_15__1990__age_29__India {
+	position: absolute;
+	left: 146px;
+	top: 91px;
+	overflow: hidden;
+	width: 450px;
+	height: 144px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#__Beverly_Hills__California__N {
+	position: absolute;
+	left: 208px;
+	top: 165px;
+	overflow: hidden;
+	width: 439px;
+	height: 171px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#Actress {
+	position: absolute;
+	left: 315px;
+	top: 364px;
+	overflow: hidden;
+	width: 303px;
+	height: 82px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+#ID2006_present {
+	position: absolute;
+	left: 315px;
+	top: 476px;
+	overflow: hidden;
+	width: 303px;
+	height: 82px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(0,0,0,1);
+}
+<!DOCTYPE html>
+<html>
+<head>
+
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="Web_1280___6.css"/>
+</head>
+<body background="1.jpg">
+
+	<svg class="logo">
+		<pattern elementId="logo_A4_Rectangle_4" id="logo_A4_Rectangle_4_pattern" x="0" y="0" width="100%" height="100%">
+			<image x="0" y="0" width="100%" height="100%" href="logo_A4_Rectangle_4_pattern.png" xlink:href="logo_A4_Rectangle_4_pattern.png"></image>
+		</pattern>
+		<rect fill="url(#logo_A4_Rectangle_4_pattern)" id="logo" rx="0" ry="0" x="0" y="0" width="78.974" height="77">
+		</rect>
+	</svg>
+	<div>
+	  <ul class="main-nav">
+            <li><a href="index.html"> HOME </a></li>
+            <li><a href="Web_1280___4.html"> SERVICES </a></li> 
+            <li><a href="Web_1280___1.html"> ABOUT </a></li> 
+            <li><a href="Web_1280___7.html"> CONTACT </a></li>
+            <li class="actvie"><a href=""> NEWS </a></li> 
+            <li><a href=""> FAQ </a></li> 
+            
+        </ul>  
+
+
+</div>
+
+	<div id="NEWS_A4_Text_7">
+		<span>NEWS</span>
+	</div>
+	<div id="new_movies">
+		<span>new movies</span>
+	</div>
+	<div id="Group_21">
+		<svg class="ID51oXULX085L">
+			
+				
+				<image x="0" y="0" width="100%" height="100%" href="ID51oXULX085L_A4_Rectangle_6_pattern.png" xlink:href="ID51oXULX085L_A4_Rectangle_6_pattern.png"></image>
+				
+			
+			
+		</svg>
+		<svg class="ID51gddX1jGcL">
+			<pattern elementId="ID51gddX1jGcL_A4_Rectangle_8" id="ID51gddX1jGcL_A4_Rectangle_8_pattern" x="0" y="0" width="100%" height="100%">
+				<image x="0" y="0" width="100%" height="100%" href="ID51gddX1jGcL_A4_Rectangle_8_pattern.png" xlink:href="ID51gddX1jGcL_A4_Rectangle_8_pattern.png"></image>
+			</pattern>
+			<rect fill="url(#ID51gddX1jGcL_A4_Rectangle_8_pattern)" id="ID51gddX1jGcL" rx="36" ry="36" x="0" y="0" width="177" height="294">
+			</rect>
+		</svg>
+		
+		
+		
+		
+		<svg class="ID61RTo5963ML">
+			<pattern elementId="ID61RTo5963ML_A4_Rectangle_10" id="ID61RTo5963ML_A4_Rectangle_10_pattern" x="0" y="0" width="100%" height="100%">
+				<image x="0" y="0" width="100%" height="100%" href="ID61RTo5963ML_A4_Rectangle_10_pattern.png" xlink:href="ID61RTo5963ML_A4_Rectangle_10_pattern.png"></image>
+			</pattern>
+			<rect fill="url(#ID61RTo5963ML_A4_Rectangle_10_pattern)" id="ID61RTo5963ML" rx="41" ry="41" x="0" y="0" width="177" height="294">
+			</rect>
+		</svg>
+	</div>
+	<div id="Jennifer_Lawrence">
+		<span>Jennifer Lawrence</span>
+	</div>
+	<div id="Jennifer_Shrader_Lawrence__bor">
+		<span>Jennifer Shrader Lawrence (born August 15, 1990) is an American actress. The films she has acted in have grossed over $6 billion worldwide, and she was the highest-paid actress in the world in 2015 and 2016. Lawrence appeared in Time's 100 most influential people in the world list in 2013 and in the Forbes Celebrity 100 list in 2014 and 2016.<br/><br/>During her childhood, Lawrence performed in church plays and school musicals. At age 14, she was spotted by a talent scout while vacationing in New York City with her family. Lawrence then moved to Los Angeles and began her acting career by  </span>
+	</div>
+	<svg class="Rectangle_10">
+		<rect fill="rgba(228,228,228,1)" id="Rectangle_10" rx="0" ry="0" x="0" y="0" width="636" height="1224">
+		</rect>
+	</svg>
+	<svg class="Jennifer_Lawrence_SDCC_2015_X_">
+		<pattern elementId="Jennifer_Lawrence_SDCC_2015_X__A4_Rectangle_13" id="Jennifer_Lawrence_SDCC_2015_X__A4_Rectangle_13_pattern" x="0" y="0" width="100%" height="100%">
+			<a href="file:///C:/Users/96475/Desktop/my%20site/index.html">
+				<image x="0" y="0" width="100%" height="100%" href="Jennifer_Lawrence_SDCC_2015_X__A4_Rectangle_13_pattern.png" xlink:href="Jennifer_Lawrence_SDCC_2015_X__A4_Rectangle_13_pattern.png"></image> </a>
+		</pattern>
+		<rect fill="url(#Jennifer_Lawrence_SDCC_2015_X__A4_Rectangle_13_pattern)" id="Jennifer_Lawrence_SDCC_2015_X_" rx="11" ry="11" x="0" y="0" width="520" height="623">
+		</rect>
+	</svg>
+	<div id="Group_22">
+		<div id="Lawrence_at_the_2015_San_Diego">
+			<span>Lawrence at the 2015 San Diego Comic-Con</span>
+		</div>
+		<div id="Born">
+			<span>Born</span>
+		</div>
+		<div id="Residence">
+			<span>Residence</span>
+		</div>
+		<div id="Occupation">
+			<span>Occupation</span>
+		</div>
+		<div id="Years_active">
+			<span>Years active</span>
+		</div>
+		<div id="August_15__1990__age_29__India">
+			<span>August 15, 1990 (age 29)<br/>Indian Hills, Kentucky, U.S.</span>
+		</div>
+		<div id="__Beverly_Hills__California__N">
+			<span>	<br/>Beverly Hills, California,<br/>New York City</span>
+		</div>
+		<div id="Actress">
+			<span>Actress</span>
+		</div>
+		<div id="ID2006_present">
+			<span>2006–present</span>
+		</div>
+	</div>
+
+</body>
+</html>
+
+
+body{
+	height:84vh;
+	
+	
+	background-size: cover;
+	background-position: right;
+	background-repeat: no-repeat;
+    margin-bottom: 100px;}
+	
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+
+
+.logo {
+	position: absolute;
+	overflow: visible;
+	width: 78.974px;
+	height: 77px;
+	left: 0px;
+	top: 0px;
+}
+.main-nav
+{
+   float: right; 
+    list-style: none;
+    margin-top: 30px;
+}
+
+.main-nav li
+{
+    display: inline-block;
+			
+} 
+
+.main-nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+}
+
+.main-nav li.actvie a
+{
+    border: 2px solid darkorange;
+}
+
+.main-nav li a:hover
+{
+    border: 2px solid darkorange;
+}
+#Group_14 {
+	position: absolute;
+	width: 965px;
+	height: 273px;
+	left: 224px;
+	top: 241px;
+	overflow: visible;
+}
+
+#ID00__958__9865_562_Mon_to_Fri {
+	position: absolute;
+	left: 0px;
+	top: 101px;
+	overflow: hidden;
+	width: 267px;
+	height: 76px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#support_colorlib_com_Send_us_y {
+	position: absolute;
+	left: 0px;
+	top: 194px;
+	overflow: hidden;
+	width: 383px;
+	height: 79px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Binghamton__New_York_4343_Hink {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: hidden;
+	width: 361px;
+	height: 106px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(255,255,255,1);
+}
+#Group_12 {
+	position: absolute;
+	width: 325px;
+	height: 260px;
+	left: 402px;
+	top: 0px;
+	overflow: visible;
+}
+.Rectangle_4 {
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	height: 51px;
+	left: 0px;
+	top: 209px;
+}
+.Rectangle_6 {
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	height: 51px;
+	left: 0px;
+	top: 101px;
+}
+.Rectangle_5 {
+	position: absolute;
+	overflow: visible;
+	width: 325px;
+	height: 51px;
+	left: 0px;
+	top: 0px;
+}
+#Enter_your_name {
+	position: absolute;
+	left: 26px;
+	top: 11px;
+	overflow: visible;
+	width: 150px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Enter_subject {
+	position: absolute;
+	left: 26px;
+	top: 220px;
+	overflow: hidden;
+	width: 249px;
+	height: 30px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Enter_email_address {
+	position: absolute;
+	left: 26px;
+	top: 111px;
+	overflow: hidden;
+	width: 249px;
+	height: 30px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(112,112,112,1);
+}
+#Group_9 {
+	position: absolute;
+	width: 179px;
+	height: 47px;
+	left: 786px;
+	top: 213px;
+	overflow: visible;
+}
+.Rectangle_7 {
+	position: absolute;
+	overflow: visible;
+	width: 179px;
+	height: 47px;
+	left: 0px;
+	top: 0px;
+}
+#SEND_MESSEGE {
+	position: absolute;
+	left: 20px;
+	top: 9px;
+	overflow: hidden;
+	width: 157px;
+	height: 30px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(255,255,255,1);
+}
+#CONTACT_US {
+	filter: drop-shadow(8px 5px 6px rgba(255, 255, 255, 1));
+	position: absolute;
+	left: 760px;
+	top: 70px;
+	overflow: hidden;
+	width: 589px;
+	height: 139px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 92px;
+	color: rgba(255,119,0,1);
+}
+
+
+
+#Group_15 {
+	position: absolute;
+	width: 236px;
+	height: 133px;
+	left: 982px;
+	top: 300px;
+	overflow: visible;
+}
+.Rectangle_9 {
+	position: absolute;
+	overflow: visible;
+	width: 236px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+}
+#Enter_messege {
+	position: absolute;
+	left: 36px;
+	top: 45px;
+	overflow: hidden;
+	width: 192px;
+	height: 44px;
+	text-align: left;
+	font-family: Segoe UI;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 25px;
+	color: rgba(112,112,112,1);
+}
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Web 1280 – 7</title>
+	
+<link rel="stylesheet" type="text/css" id="applicationStylesheet" href="Web_1280___7.css"/>
+</head>
+	
+<body background="Jennifer-Lawren.jpg">
+
+	<svg class="logo">
+		<pattern elementId="logo_A5_Rectangle_5" id="logo_A5_Rectangle_5_pattern" x="0" y="0" width="100%" height="100%">
+			<image x="0" y="0" width="100%" height="100%" href="logo_A5_Rectangle_5_pattern.png" xlink:href="logo_A5_Rectangle_5_pattern.png"></image>
+		</pattern>
+		<rect fill="url(#logo_A5_Rectangle_5_pattern)" id="logo" rx="0" ry="0" x="0" y="0" width="78.974" height="77">
+		</rect>
+	</svg>
+	<div>
+	  <ul class="main-nav">
+            <li><a href="index.html"> HOME </a></li>
+            <li><a href="Web_1280___4.html"> SERVICES </a></li> 
+            <li><a href="Web_1280___1.html"> ABOUT </a></li> 
+            <li class="actvie"><a href=""> CONTACT </a></li>
+            <li><a href="Web_1280___6.html"> NEWS </a></li> 
+            <li><a href=""> FAQ </a></li> 
+            
+        </ul>  
+
+
+</div>
+
+	<div id="Group_14">
+		<div id="Group_11">
+			<div id="ID00__958__9865_562_Mon_to_Fri">
+				<span>00 (958) 9865 562<br/>Mon to Fri 9am to 6 pm<br/></span><br>
+			</div>
+			<div id="support_colorlib_com_Send_us_y">
+				<span>support@colorlib.com<br/>Send us your query anytime!</span>
+			</div>
+			<div id="Binghamton__New_York_4343_Hink">
+				<span>Binghamton, New York<br/>4343 Hinkle Deegan Lake Road</span>
+			</div>
+		</div>
+		<div id="Group_12">
+			<svg class="Rectangle_4">
+				<rect fill="rgba(255,255,255,1)" id="Rectangle_4" rx="25.5" ry="25.5" x="0" y="0" width="325" height="51">
+				</rect>
+			</svg>
+			<svg class="Rectangle_6">
+				<rect fill="rgba(255,255,255,1)" id="Rectangle_6" rx="25.5" ry="25.5" x="0" y="0" width="325" height="51">
+				</rect>
+			</svg>
+			<svg class="Rectangle_5">
+				<rect fill="rgba(255,255,255,1)" id="Rectangle_5" rx="25.5" ry="25.5" x="0" y="0" width="325" height="51">
+				</rect>
+			</svg>
+			<div id="Enter_your_name">
+				<span>Enter your name</span>
+			</div>
+			<div id="Enter_subject">
+				<span>Enter subject</span>
+			</div>
+			<div id="Enter_email_address">
+				<span>Enter email address</span>
+			</div>
+		</div>
+		<div id="Group_9">
+			<svg class="Rectangle_7">
+				<rect fill="rgba(251,103,25,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_7" rx="23.5" ry="23.5" x="0" y="0" width="179" height="47">
+				</rect>
+			</svg>
+			<div id="SEND_MESSEGE">
+				
+				<span><a href="">SEND MESSEGE</a> </span>
+			</div>
+		</div>
+	</div>
+	<div id="CONTACT_US">
+		<span>CONTACT US</span>
+	</div>
+	
+	
+	
+	<div id="Group_15">
+		<svg class="Rectangle_9">
+			<rect fill="rgba(255,255,255,1)" stroke="rgba(112,112,112,1)" stroke-width="1px" stroke-linejoin="miter" stroke-linecap="butt" stroke-miterlimit="4" shape-rendering="auto" id="Rectangle_9" rx="26" ry="26" x="0" y="0" width="236" height="133">
+			</rect>
+		</svg>
+		<div id="Enter_messege">
+			<span>Enter messege</span>
+		</div>
+	</div>
+
+</body>
+</html>
